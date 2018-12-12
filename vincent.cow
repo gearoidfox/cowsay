@@ -1,0 +1,28 @@
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts                      
+ \\   ~              777FFFf.     ) 
+      `.  '     vVvVvVvIFFFFFf        ~    (
+   )   )       VVvVVvVV```EFEFEf   x ~    .
+           l `v ``````     EEEEEE      (   
+   ~  (     /               FFFEEFf   ~    `
+  \\  ~     | `              FEEEFFFE   ~    `
+      )    |      .          EEEFFFD   ~     )
+)     ~   .##.  . `####x      EEEFFF         .
+      .     <().`  ,`()>.    CEEEEFr  ~  j  v
+     ~     /   /    `         `c.. `)
+   ~       \\  /      ` `      ,, D )/    )      /
+ O  (   (   \\ l _ )      ,,####l_ /   (        
+     ~   \\   #,,###,   #######  `/   ~         (
+   ;   ~.   ## __``#,,####,~`` `/   ~  (    x
+   (    )    #X,,,,,,#####`   .`\\    ~    )   v
+       /  j  /Z#########*   .`ZZZZ`.. ` ~    
+     ;     ./ZZ\\######/  . /ZZZZZ/zzzz`-.      /
+   (    ..'/ZZZ/-- ,   -- |ZZZZZ/zz\\zzzzz`\\   
+    `. /zz/ZZZZ/---o----/Z|ZZZ/zzzz\\zzzzzzz`\\.
+   _/zzzzz\\ZZZ/-------/ZZ/ZZZ/zzzzz/zzzzzzzzzz\\
+  /zzzzzzzz\\ZZ/------/ZZ L__Jzzzzz/zzzzzzzzzzzzz
+ /zzzzzzzz/ZZZ\\z---.Z _/'zzzzzzzz/zzzzzzzzzzzzz
+ /zzzzzzzz\\ZZ/z\\zz/../zzzzzzzzzzzz##zzzzzzzzzzz
+ |zzzzzzzzz//zzz\\/(o)zzzzzzzzzzzzz#zzzzzzzzzzzz
+EOC

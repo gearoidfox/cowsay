@@ -1,0 +1,32 @@
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+           .c####, 
+          AP      a#
+         #  ;    ; ##
+        ## ``    `` #.
+       |## ()    () ##   
+       ### ..    .. ###
+       ### `:    :`/###
+      ####\\        ####
+      x####\\  ==  ####x
+     xx#####, ...#####xx           
+     xxx##############xxx  
+     xx###############Xxx         
+    xxXX#############XXxx.
+   .xxX###############XXxx;
+   ;xXXX##############Xxxx;
+   ;xX#################XXx;
+   ;xX#################XXxx;
+   ;xX#[ ############ ]#Xx;
+   `xx##\\ \\#########/ #Xxx;
+    xxXX##w########w##Xxx`
+    xxxxXXXXX######SXXxx;
+    ;vvxxxXXSS###SXXXxxxx
+   ;;;vvvxxXXSS#XXXXxxxxxx
+   ;;;ivvvxxxxxxxxx;;;x;;x
+   ;;;;;;;xxxxxxxx;x;;;;;;;
+   :.::`::.::x:::x:`::`:..
+   `..`..`....`....`....`.'
+    `...`...`....`....`..'       
+EOC
