@@ -135,3 +135,27 @@
        `..`..`....`....`....`.'
         `...`...`....`....`..' 
 
+## Why
+     __________________
+    < Ask again later. >
+     ------------------
+        \
+         \
+          \     _.,;cxaa;,._
+            ,@!)XVPMSPwrgsAMVm
+         .aA%@XVIJPvSDIPJVs$IPSv,
+        AsNS$(SDNVNQsdv4!@$PINSVAD.
+       J#JXCVLUWr'``  ``'.#SO(ENCVJ$
+      OFSbnxSDP`          `VbTIS$@$s.
+     /(VNSLJN/     ----     \51S#LGIS
+     A$4ADjIP     |    |     '%MVsqREA
+     #@JBIa(|      >--<      l%XBWcAFJ
+     V6mbSDGl     |    |     /#KAGSDG]
+     W0CVBio$\     ----     /BDRFaFADv
+     \FSBMx%@VM.          .ATXCys#ad/
+      VSDz25Mad#$;,.__,.;aK$#a9NS#mV
+        YaXMCBIZ$%xXCI$ADMxj$#0XgE'
+         `^#CmGL$%kAPW2Xc#aV@ksq'
+           `'^A5VL#@zVGwAcOPM^`
+               `'^*!?##?^*`
+    
